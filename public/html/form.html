@@ -1,0 +1,68 @@
+<div class="page-header__inner">
+    <div class="page-header__main">
+        <h2 class="page-header__title">
+            <span id="title">parking.dombot.pl</span>
+            <span class="page-header__subtitle">Contact Form</span></h2>
+    </div>
+    <fieldset>
+        <label for="email">E-Mail</label>
+        <input type="text" name="email" id="email" value="">
+    </fieldset>
+
+    <fieldset>
+
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" value="">
+    </fieldset>
+
+    <!--        <label for="domain">Internet Domain</label>-->
+
+    <fieldset>
+        <label for="message">Message</label>
+        <textarea name="message" id="message" cols="30" rows="6"></textarea>
+
+        <input type="hidden" name="domain" id="domain" value="">
+
+
+        <input type="submit" name="email" value="Send">
+    </fieldset>
+</div>
+
+<div id="contant_domain"></div>
+
+<script>
+    /*
+    function parse_query_string(query) {
+        var vars = query.split("&");
+        var query_string = {};
+        for (var i = 0; i < vars.length; i++) {
+            var pair = vars[i].split("=");
+            var key = decodeURIComponent(pair[0]);
+            var value = decodeURIComponent(pair[1]);
+            // If first entry with this name
+            if (typeof query_string[key] === "undefined") {
+                query_string[key] = decodeURIComponent(value);
+                // If second entry with this name
+            } else if (typeof query_string[key] === "string") {
+                var arr = [query_string[key], decodeURIComponent(value)];
+                query_string[key] = arr;
+                // If third or later entry with this name
+            } else {
+                query_string[key].push(decodeURIComponent(value));
+            }
+        }
+        return query_string;
+    }
+
+    var query_string = "a=1&b=3&c=m2-m3-m4-m5";
+    var parsed_qs = parse_query_string(query_string);
+    console.log(parsed_qs.c);
+
+    Expand snippet
+
+    You can get the query string from the URL of the current page with:
+
+    var query = window.location.search.substring(1);
+    var qs = parse_query_string(query);
+*/
+</script>
