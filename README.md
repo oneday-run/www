@@ -1,4 +1,6 @@
 
+![1/cover.png](https://logo.oneday.run/1/cover.png)
+
 # www.oneday.run
 
 + [logo.oneday.run](https://logo.oneday.run/)
