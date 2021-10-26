@@ -1,7 +1,7 @@
 
 ![1/cover.png](https://onedayrun.github.io/logo/1/cover.png)
 
-# + [www.oneday.run](https://logo.oneday.run/)
+# [www.oneday.run](https://logo.oneday.run/)
 
 + [logo.oneday.run](https://logo.oneday.run/)
 
