@@ -1,10 +1,10 @@
 
-![1/cover.png](https://logo.oneday.run/1/cover.png)
+![1/cover.png](https://onedayrun.github.io/logo/1/cover.png)
 
-# www.oneday.run
+# + [www.oneday.run](https://logo.oneday.run/)
 
 + [logo.oneday.run](https://logo.oneday.run/)
-+ [www.oneday.run](https://logo.oneday.run/)
+
 + [docs.oneday.run](https://logo.oneday.run/)
 
 Landing Page oneday.run
@@ -34,8 +34,8 @@ Landing Page oneday.run
 
 
 ---
-+ [edit](https://github.com/onedayrun/logo/edit/master/README.md)
-+ [git](https://github.com/onedayrun/logo)
++ [edit](https://github.com/onedayrun/www/edit/master/README.md)
++ [git](https://github.com/onedayrun/www)
 ```
-https://github.com/onedayrun/logo.git
+https://github.com/onedayrun/www.git
 ```
