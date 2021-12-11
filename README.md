@@ -11,7 +11,7 @@
 
 ## install on VPS
 
-    git clone https://github.com/memogra/www.git
+    git clone https://github.com/onedayrun/www.git
     
     sh install.sh
     
