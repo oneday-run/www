@@ -1,16 +1,13 @@
 
 ![1/cover.png](https://onedayrun.github.io/logo/1/cover.png)
 
-# [www.oneday.run](https://logo.oneday.run/)
+# [www.oneday.run](https://www.oneday.run/)
 
 + [logo.oneday.run](https://logo.oneday.run/)
 
-+ [docs.oneday.run](https://logo.oneday.run/)
++ [docs.oneday.run](https://docs.oneday.run/)
 
-Landing Page oneday.run
-
-[Memogra logo](logo.oneday.run)
-[Memogra Dokumentacja](docs.oneday.run)
+## Landing Page oneday.run
 
 ## install on VPS
 
