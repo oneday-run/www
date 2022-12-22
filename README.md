@@ -7,7 +7,48 @@
 
 + [docs.oneday.run](https://docs.oneday.run/)
 
+
 ## Landing Page oneday.run
+
+OneDayRun.com 
+
+To oferta marketplacu gdzie można uruchamiać swoje aplikacje
+
+Każdy user dostaje swój własny marketplace, swój serwer wirtuany, na którym są uruchamiane aplikacje.
+
+
+## oferta cenowa na rok 2023:
+
+10PLN/uruchomione aplikacje miesięcznie
+w pierwszym roku kupuje się pakiety na rok, wówczas jest taniej:
+
+10apk - 80PLN
+20apk - 150PLN
+30apk - 200PLN
+
+
+* wersja demo działa tylko na jednej aplikacji i jest często aktualizowana w ramach testów, aplikacje nie są przehcowywane na stałe, co najmniej 1 raz w miesiącu środowisko jest resetowane.
+
+
+prywatny marketplace
+[user].oneday.run/[role]/[action]
+
+
+### role:
+
++ user
++ manager
++ devops
+
+
+### action
+
++ run on remote server
++ run local on pc 
++ logs
++ monitor
+
+
 
 ## install on VPS
 
