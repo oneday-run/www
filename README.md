@@ -16,6 +16,11 @@ To oferta marketplacu gdzie można uruchamiać swoje aplikacje
 
 Każdy user dostaje swój własny marketplace, swój serwer wirtuany, na którym są uruchamiane aplikacje.
 
+## Oferta
+
+https://ckinno.pl/startupy/
+
+
 ## reklama na linkedin
 
 ![image](https://user-images.githubusercontent.com/5669657/209205557-a082deee-8179-485a-91c4-8220187f0f18.png)
