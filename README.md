@@ -27,6 +27,12 @@
     
 
 
+Elevate your software development to the automated level.
+No more code, macros, ... just text to software
+One Sentence - One Application - Automated Software House
+
+Automated Software House analyzes the description and asks for any necessary explanations, generates an initial code base in a remote repository and performs implementation at the indicated service provider in the user's Internet domain.
+
 
 ---
 + [edit](https://github.com/onedayrun/www/edit/master/README.md)
