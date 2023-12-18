@@ -100,34 +100,34 @@ By focusing on a roadmap that prioritizes user experience and sophisticated code
 ```mermaid
 gantt
     title OneDayRun SaaS Product Roadmap
-    dateFormat  YYYY-QQ
+    dateFormat  YYYY-MM-DD
 
     section Concept Phase
-    Concept Validation & AI Testing            :a1, 2023-Q2, 2023-Q3
-    Core AI Engine Development                :a2, after a1, 2023-Q3
+    Concept Validation & AI Testing               :done,    des1, 2023-04-01, 2023-06-30
+    Core AI Engine Development                   :active,  des2, 2023-07-01, 2023-09-30
 
     section MVP Development
-    User Interface Design                     :2023-Q4, 2024-Q1
-    Basic Code Generation Features            :after a2, 2024-Q1
-    Closed Beta Testing & Feedback Loop       :b1, 2024-Q1, 2024-Q2
+    User Interface Design                        :         des3, 2023-10-01, 2024-01-31
+    Basic Code Generation Features               :         des4, after des2, 2024-02-28
+    Closed Beta Testing & Feedback Loop          :         des5, 2024-02-01, 2024-06-30
 
     section Beta Testing & Iteration
-    Open Beta Testing                         :b2, 2024-Q2, 2024-Q3
-    Feedback Iteration & Improvements         :2024-Q2, 2024-Q3
-    Expand Code Templates Library             :2024-Q3
+    Open Beta Testing                            :         des6, 2024-07-01, 2024-09-30
+    Feedback Iteration & Improvements            :         des7, after des6, 2024-12-31
+    Expand Code Templates Library                :         des8, 2024-10-01, 2024-12-31
 
     section Launch Preparation
-    Integration with Version Control & Deployment Platforms  :c1, 2024-Q3
-    Official Launch & Marketing Campaign      :launch, 2024-Q4, 2025-Q1
+    Integration with Version Control & Deployment Platforms : des9, 2024-10-01, 2024-12-31
+    Official Launch & Marketing Campaign         :         des10, 2024-12-01, 2025-03-31
 
     section Post-Launch Growth
-    Strategic Partnerships & Ecosystem Expansion :d1, 2025-Q1, 2025-Q2
-    Marketplace for Plugins & Integrations    :2025-Q2, 2025-Q3
+    Strategic Partnerships & Ecosystem Expansion :         des11, 2025-04-01, 2025-06-30
+    Marketplace for Plugins & Integrations       :         des12, 2025-07-01, 2025-09-30
 
     section Scaling and Improvement
-    Infrastructure Scaling & User Base Growth :e1, 2025-Q3
-    AI Advancements & Code Diversification    :2025-Q3, 2025-Q4
-    Continuous Updates & Refinements          :2025-Q4, onwards
+    Infrastructure Scaling & User Base Growth    :         des13, 2025-10-01, 2025-12-31
+    AI Advancements & Code Diversification       :         des14, after des13, 2026-03-31
+    Continuous Updates & Refinements             :         des15, after des14, 2026-12-31
 ```
 
 This script is designed to be processed by a Mermaid-compatible renderer. Upon rendering, it'll produce a timeline displaying the different stages of your product development from concept validation to continuous updates and refinements. Each task block is labeled and shows the sequential or parallel tasks for the project.
